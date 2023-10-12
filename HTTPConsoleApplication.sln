@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPConsoleApplication", "HTTPConsoleApplication\HTTPConsoleApplication.csproj", "{E2375E1A-1864-471A-A230-75ED8711510E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPConsole ApplicationLibrary", "HTTPConsole ApplicationLibrary\HTTPConsole ApplicationLibrary.csproj", "{ACAF0271-4187-4BA3-AA43-C2883A4BB974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2375E1A-1864-471A-A230-75ED8711510E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2375E1A-1864-471A-A230-75ED8711510E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2375E1A-1864-471A-A230-75ED8711510E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2375E1A-1864-471A-A230-75ED8711510E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAF0271-4187-4BA3-AA43-C2883A4BB974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAF0271-4187-4BA3-AA43-C2883A4BB974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAF0271-4187-4BA3-AA43-C2883A4BB974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAF0271-4187-4BA3-AA43-C2883A4BB974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29866E12-660A-4E8F-B6CE-DD91C30C5915}
+	EndGlobalSection
+EndGlobal
